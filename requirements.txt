@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pymongo
+pydantic
+python-dotenv
+websockets
+//uvicorn main:app --reload --port 8000

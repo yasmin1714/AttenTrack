@@ -27,7 +27,6 @@
 - [Known Limitations](#-known-limitations)
 - [Future Scope](#-future-scope)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
